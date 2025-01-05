@@ -1,0 +1,166 @@
+{
+	"gameContainer" :[
+		{
+			"id" : 0,
+			"letters": [
+				"H",
+				"C",
+				"N",
+				"E",
+				"I"
+			],
+			"words": [
+				"NICHE",
+				"CHIEN",
+				"NIE",
+				"CHINE",
+				"CHIE",
+				"CINE",
+				"HEIN",
+				"HIC"
+			]
+		}, {
+			"id": 1,
+			"letters": [
+				"L",
+				"E",
+				"R",
+				"I"
+			],
+			"words": [
+				"LIRE",
+				"LIER",
+				"LIE",
+				"ILE",
+				"RIE"
+			]
+		},{
+			"id": 2,
+			"letters": [
+			"A",
+			"V",
+			"S",
+			"E",
+			"L"
+			],
+			 "words": [
+			"VALSE",
+			"SALVER",
+			"LAVE",
+			"LEVA",
+			"SALE",
+			"VASE",
+			"VELA",
+			"LAS",
+			"LES",
+			"VAL",
+			"VAS",
+			"SEL"
+			]
+			}, {
+			"id": 3,
+			"letters": [
+			"S",
+			"U",
+			"I",
+			"L",
+			"F"
+			],
+			"words": [
+			"FUSIL",
+			"FILS",
+			"FUIS",
+			"SUIF",
+			"FIL",
+			"FIS",
+			"FUS",
+			"ILS",
+			"IFS",
+			"LIS",
+			"LUI",
+			"LUS"
+			]
+			},
+			{
+			"id": 4,
+			"letters": [
+			"P",
+			"E",
+			"R",
+			"E",
+			"R",
+			"E"
+			],
+			"words": [
+			"REPERE",
+			"EPEE",
+			"PERE",
+			"ERRE",
+			"ERE",
+			"PRE"
+			]
+			},
+			{
+			"id": 5,
+			"letters": [
+			"R",
+			"R",
+			"I",
+			"E",
+			"P"
+			],
+			"words": [
+			"PERIR",
+			"PRIER",
+			"PERI",
+			"PIRE",
+			"PRIE",
+			"RIRE",
+			"EPI",
+			"PRE",
+			"PIE"
+			]
+			},
+			{
+			"id": 6,
+			"letters":[
+			"R",
+			"A",
+			"R",
+			"T",
+			"E"
+			],
+			"words": [
+			"ARRET",
+			"RARE",
+			"TERRA",
+			"RATER",
+			"ATRE",
+			"ERRA",
+			"RATE",
+			"TARE",
+			"ART",
+			"RAT",
+			"TER"
+			]
+			},
+			{
+			"id": 7,
+			"letters": [
+			"U",
+			"L",
+			"U",
+			"E",
+			"R"
+			],
+			"words": [
+			"LUEUR",
+			"RELU",
+			"LEUR",
+			"ELU",
+			"LUE",
+			"RUE"
+			]
+			}
+	]
+}
